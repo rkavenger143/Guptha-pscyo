@@ -1,0 +1,7 @@
+ #include<stdio.h>
+hi this is rk rajasekhar 
+from civil engineering department 
+inrested in devops in CSE 
+future scope is to become the devops engineer
+as best as the i work from home in my home town guntakal 
+
